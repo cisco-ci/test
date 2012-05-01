@@ -1,0 +1,4 @@
+[gerrit]
+host=review-ctocllab.cisco.com
+port=29418
+project=test.git
